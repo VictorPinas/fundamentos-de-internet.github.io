@@ -2,7 +2,7 @@
 
 Como dito na seção 'Sobre' (About) esta página tem o intuito de fornecer informações e conceitos sobre internet e suas tecnologias, p.ex: O que é DNS? Como os navegadores funcionam? O que são 'linguagens de script'? Entre outros, em português brasileiro.
 
-O auto respeita direitos autorais e de reprodução fornecendo a bibliografia daonde as informações foram retiradas.
+O autor respeita direitos autorais e de reprodução fornecendo a bibliografia daonde as informações foram retiradas.
 
 ### Markdown
 
