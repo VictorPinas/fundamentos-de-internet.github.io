@@ -1,8 +1,8 @@
 ## Bem vindo(a)(e) à página 'Fundamentos de Internet'.
 
-You can use the [editor on GitHub](https://github.com/VictorPinas/Fundamentos-de-Internet.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Como dito na seção 'Sobre' (About) esta página tem o intuito de fornecer informações e conceitos sobre internet e suas tecnologias, p.ex: O que é DNS? Como os navegadores funcionam? O que são 'linguagens de script'? Entre outros, em português brasileiro.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+O auto respeita direitos autorais e de reprodução fornecendo a bibliografia daonde as informações foram retiradas.
 
 ### Markdown
 
