@@ -25,7 +25,8 @@
    Uma coisa importante de se notar é que em navegadores web como o Chrome, cada aba é executada em um processo separado (múltiplas instâncias da engine de renderização).
     
 ####engine: motor; mecanismo; peça
- ###O motor de renderização
+
+###O motor de renderização
     
   A camada de rede iniciará enviando os conteúdos dos documentos requisitados para a engine de renderização em pacotes de 8KBs.<br>
   O motor de renderização analisa pacotes do documento HTML e converte os elementos em nodos do DOM em uma árvore chamada “árvore de conteúdo” ou “árvore DOM”. Ela também analisa ambos os arquivos CSS como elementos de estilo 
@@ -35,6 +36,7 @@
   O motor de renderização sempre tenta mostrar os conteúdos na tela assim que possível para melhorar a experiência de usuário. Ela não espera pela análise do HTML para se completar antes de começar a construir o layout e a árvore de renderização. Ela análise e mostra o conteúdo que recebeu da rede, enquanto o resto dos conteúdos ainda continuam chegando da rede. 
     
  ##O protocolo HTTP
+ 
   ###O que é o HTTP?
     
   O Protocolo de Transferência de Hiper Texto é um protocolo de aplicação para distribuição, colaboração entre sistemas de hipermídia que permite aos usuários comunicar dados na World Wide Web.
@@ -53,6 +55,7 @@
   O HTTP permite um conjunto de métodos de destinação aberta e cabeçalhos que indicam o propósito de uma requisição (request). Ela constrói sobre a disciplina de referência pela Uniform Resource Identifier (URI), assim como localização (URL), ou nome (URN), para indicar o recurso na qual um método pode ser aplicado. Mensagens são passadas em um formato similar ao utilizado pelo correio de Internet (Internet mail) assim definido pelo Multipurpose Internet Mail Extensions (MIME). O HTTP é também usado como um protocolo genérico para comunicação entre usuários agentes (user agents) e proxies/gateways para outros sistemas de internet, incluindo aqueles fornecidos por SMTP, NNTP, FTP, Gopher, e protocolos WAIS. Desta maneira, o HTTP permite acesso básico à hipermídias disponíveis de diversas aplicações.
     
   ###Como o HTTP funciona?
+  
   Como um protocolo de requisição e resposta, o HTTP dá aos usuários uma maneira de interagir com recursos web tal como arquivos HTML ao transmitir mensagens de hipertexto entre clientes e servidores. O cliente HTTP geralmente usa as conexões Transmission Control Protocol (TCP) para se comunicar com os servidores. <br>
   O HTTP utiliza métodos de requisição específico com o intuito de realizar várias tarefas: 
 
@@ -69,6 +72,7 @@
 Todos os servidores HTTP usam os métodos GET e HEAD, mas nem todos os outros métodos são suportados.
     
  ###O que é uma URI (Uniform Resource Identifier)?
+ 
  Uniform Resource Identifier é um termo genérico para todos os tipos de nomes e endereços que se referem à objetos na *world wide web* (www). Uma URL é uma URI.
     
  ###O que é uma URL (Uniform Resource Locator)?
@@ -76,6 +80,7 @@ Todos os servidores HTTP usam os métodos GET e HEAD, mas nem todos os outros m�
  Uniform Resource Locator é o endereço global de documentos e outros recursos na *world wide web* (www). É o mecanismo utilizado pelos navegadores (browsers) para acessar qualquer conteúdo publicado na web. Por exemplo, **www.site.com** é uma URL para acessar um site qualquer. Uma URL é o tipo mais comum de URI.
     
  ####Partes de uma URL:
+ 
  #####Protocolo.
     
    **http:**//www.site.com/pagina.html 
