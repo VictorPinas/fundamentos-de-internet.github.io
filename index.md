@@ -41,7 +41,6 @@
     
   O Protocolo de Transferência de Hiper Texto é um protocolo de aplicação para distribuição, colaboração entre sistemas de hipermídia que permite aos usuários comunicar dados na World Wide Web.
   HTTP significa Hyper Text Transfer Protocol Serve para a comunicação entre servidores web e clientes HTTP Request/Response, Loading pages, submit form, AJAX calls.
-    
 ### O HTTP é 'stateless' (protocolo sem estado)
     
   O que é Stateless? Stateless significa que não existe nenhum registro de interações prévias e cada requisição de interação tem de ser lidada baseando se inteiramente na informação que vem junto. ‘Stateful’ e ‘Stateless’ são derivados da utilização de um estado como um conjunto de condições em algum momento do tempo. Cada requisição é completamente independente Similar às transações Programação, Armazenamento local, Cookies, Seções são usadas para criar experiências de usuários melhoradas.
@@ -49,11 +48,9 @@
 ### Qual o propósito do HTTP?
 
   O HTTP foi inventado junto com o HTML para criar o primeiro navegador interativo baseado em texto: a World Wide Web original. Hoje, o protocolo permanece como meio primário para se utilizar a internet.
-    
 ### O que o HTTP pode fazer?
 
   O HTTP permite um conjunto de métodos de destinação aberta e cabeçalhos que indicam o propósito de uma requisição (request). Ela constrói sobre a disciplina de referência pela Uniform Resource Identifier (URI), assim como localização (URL), ou nome (URN), para indicar o recurso na qual um método pode ser aplicado. Mensagens são passadas em um formato similar ao utilizado pelo correio de Internet (Internet mail) assim definido pelo Multipurpose Internet Mail Extensions (MIME). O HTTP é também usado como um protocolo genérico para comunicação entre usuários agentes (user agents) e proxies/gateways para outros sistemas de internet, incluindo aqueles fornecidos por SMTP, NNTP, FTP, Gopher, e protocolos WAIS. Desta maneira, o HTTP permite acesso básico à hipermídias disponíveis de diversas aplicações.
-    
 ### Como o HTTP funciona?
   
   Como um protocolo de requisição e resposta, o HTTP dá aos usuários uma maneira de interagir com recursos web tal como arquivos HTML ao transmitir mensagens de hipertexto entre clientes e servidores. O cliente HTTP geralmente usa as conexões Transmission Control Protocol (TCP) para se comunicar com os servidores. <br>
