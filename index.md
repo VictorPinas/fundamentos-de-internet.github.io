@@ -104,7 +104,7 @@ O termo 'endereço web' refere se à URL usando o protocolo HTTP ou HTTPS.
   Por definição, toda linguagem de script é uma linguagem interpretada, isto é, ela é traduzida para linguagem de máquina no tempo de execução ao invés de ser traduzida antes. Também pode ser definido como: uma série de comandos capazes de serem executados sem a necessidade de serem compilados. 
 As seguintes linguagens são linguagens de script: PHP, Ruby, Python e JavaScript.
 Todas as linguagens de script são linguagens de programação, mas nem todas as linguagens de programação são linguagens de script. Em notação de conjuntos:
-<img src="https://github.com/VictorPinas/fundamentos-de-internet.github.io/blob/master/conjunto_linguagem.png" alt="conjunto linguagem">
+<img src="conjunto_linguagem.png" alt="conjunto linguagem">
         
 Há dois tipos de linguagens de script: lado servidor (server side) e lado cliente (cliente side). A única diferença siguinificativa entre as duas é que a primeira requer um servidor para o seu processamento.
 Linguagens script do lado servidor são executadas em um servidor web. Quando o cliente envia uma requisição (request), os servidor responde enviando conteúdo via HTTP. Em contraste, linguagens do lado cliente, no seu respectivo navegador. 
