@@ -11,10 +11,10 @@
    2. A 'engine' do navegador: A ‘engine’ do navegador trabalha como uma ponte entre a interface de usuário e a ‘engine’ de renderização. De acordo com os dados de entrada de várias interfaces de usuário, ela consulta e manipula a ‘engine’ de renderização.
    3. A 'engine' de renderização: A ‘engine’ de renderização, como o nome sugere, é responsável por renderizar a página web solicitada na tela do navegador. A ‘engine’ de renderização interpreta o código HTML, documentos XML e imagens que estão formatadas usando CSS e gera o layout que é mostrado na interface de usuário. Entretanto, utilizando plug-ins ou extensões, ela pode mostrar outros tipos de dados também. Diferentes navegadores utilizam diferentes ‘engines’ de renderização:
        
-      Microsoft Internet Explorer (descontinuado - 17/08/2021): Trident
-      Firefox e outros navegadores da Mozilla: Gecko 
-      Chrome & Opera 15+ & Microsoft Edge: Blink 
-      Chrome (iPhone) & Safari: WebKit
+      * Microsoft Internet Explorer (descontinuado - 17/08/2021): Trident
+      * Firefox e outros navegadores da Mozilla: Gecko 
+      * Chrome & Opera 15+ & Microsoft Edge: Blink 
+      * Chrome (iPhone) & Safari: WebKit
         
    4. Rede (Networking): Componente do navegador na qual fornece as URLs utilizando os protocolos comuns de internet: o HTTP ou o FTP. O componente de rede lida com todos os aspectos de comunicação e segurança da internet. O componente de rede pode implementar um cache ou documentos fornecidos com o intuito de reduzir o tráfego de rede.
    5. O interpretador JavaScript: Este é o componente na qual o navegador interpreta e executa o código JavaScript incorporado nas páginas web. Os resultados da interpretação são enviados para a ‘engine’ de renderização para serem mostrados. Análises são mantidas em segundo plano até que o script seja executado.
