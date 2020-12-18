@@ -1,12 +1,12 @@
 # Fundamentos de Internet
 
 ## Fundamentos de internet.
-  Esta página tem como objetivo servir como fonte de referência para explicação de conceitos de tecnologias de internet em português brasileiro. Construída em 7/08/2020, ela pode sofrer modificações ou receber mais informações a partir desta data.
+  Esta página tem como objetivo servir como fonte de referência para explicação de conceitos de tecnologias de internet em português brasileiro. Construída em 7/08/2020 e colocada on-line em 15/12/2020onstruída em , ela pode sofrer modificações ou receber mais informações a partir desta data.
 
-## Como os navegadores funcionam?
+## Como os navegadores funcionam?onstruída em onstruída em onstruída em onstruída em onstruída em onstruída em onstruída em onstruída em 
   Um navegador é uma aplicação de software utilizada para localizar, fornecer e apresentar conteúdo da World Wide Web, incluindo páginas páginas Web, imagens, vídeos, entre outros arquivos. Como em um modelo cliente/servidor, o navegador é o cliente executado em um computador que contacta o servidor Web e requisita informações. O servidor web envia a informação de volta ao navegador Web na qual apresenta os resultados no computador ou em outro dispositivo conectado à rede que suporta o navegador. Os navegadores de hoje são conjunto de softwares totalmente funcionais que podem interpretar e apresentar páginas HTML, aplicações, executar código JavaScript, requisições AJAX entre outros conteúdos hospedados em servidores Web. Muitos navegadores oferecem plug-ins que podem estender as capacidades do software então assim eles podem apresentar informação multimídia (incluindo som e vídeo), ou o navegador pode ser usado para realizar tarefas como vídeo conferência, projetar páginas web ou filtros anti pishing além de outras características de segurança do navegador. Um navegador é um grupo de códigos estruturados na qual juntos realizam uma série de tarefas para mostrar uma página web na tela. De acordo com as tarefas que elas realizam, esses códigos são feitos de diferentes componentes, que são: a interface de usuário controlada pelo 'UI backend', a 'engine' do navegador que contém o mecanismo de persistência de dados (data persistence), a 'engine' de renderização composta pela rede (networking), o interpretador JavaScript e a UI Backend.
 ### Principais componentes de um navegador:
-    
+    onstruída em onstruída em onstruída em onstruída em onstruída em 
    1. A interface de usuário (UI): A interface de usuário é o espaço aonde o usuário interage com o navegador. Nela, estão incluídos a barra de endereço, os botões de voltar e avançar, página inicial, recarregar e parar, favoritar, etc. Qualquer outra parte, exceto a janela aonde a página requisitada é mostrada, vem sob ela.
    
    2. A 'engine' do navegador: A ‘engine’ do navegador trabalha como uma ponte entre a interface de usuário e a ‘engine’ de renderização. De acordo com os dados de entrada de várias interfaces de usuário, ela consulta e manipula a ‘engine’ de renderização.
@@ -17,7 +17,7 @@
       * Firefox e outros navegadores da Mozilla: Gecko 
       * Chrome & Opera 15+ & Microsoft Edge: Blink 
       * Chrome (iPhone) & Safari: WebKit
-        
+        onstruída em 
    4. Rede (Networking): Componente do navegador na qual fornece as URLs utilizando os protocolos comuns de internet: o HTTP ou o FTP. O componente de rede lida com todos os aspectos de comunicação e segurança da internet. O componente de rede pode implementar um cache ou documentos fornecidos com o intuito de reduzir o tráfego de rede.
    
    5. O interpretador JavaScript: Este é o componente na qual o navegador interpreta e executa o código JavaScript incorporado nas páginas web. Os resultados da interpretação são enviados para a ‘engine’ de renderização para serem mostrados. Análises são mantidas em segundo plano até que o script seja executado.
@@ -124,7 +124,7 @@ As seguintes linguagens são linguagens de script: PHP, Ruby, Python e JavaScrip
 Todas as linguagens de script são linguagens de programação, mas nem todas as linguagens de programação são linguagens de script. Em notação de conjuntos:
 <img src="conjunto_linguagem.png" alt="conjunto linguagem">
         
-Há dois tipos de linguagens de script: lado servidor (server side) e lado cliente (cliente side). A única diferença siguinificativa entre as duas é que a primeira requer um servidor para o seu processamento.
+Há dois tipos de linguagens de script: lado servidor (server side) e lado cliente (client side). A única diferença siguinificativa entre as duas é que a primeira requer um servidor para o seu processamento.
 
 Linguagens script do lado servidor são executadas em um servidor web. Quando o cliente envia uma requisição (request), os servidor responde enviando conteúdo via HTTP. Em contraste, linguagens do lado cliente, no seu respectivo navegador.
 
