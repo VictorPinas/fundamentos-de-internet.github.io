@@ -27,6 +27,7 @@
    7. Armazenamento/Persistência de dados: Esta é a camada de persistência. Navegadores fornecem mecanismos como armazenagem local, Banco de dados indexado (IndexedDB), WebSQL e sistema de arquivos. É um pequeno banco de dados criado no disco local do computador aonde o navegador esta instalado. Ele gerencia dados como cache, cookies, favoritos e preferências.
         
    Uma coisa importante de se notar é que em navegadores web como o Chrome, cada aba é executada em um processo separado (múltiplas instâncias da engine de renderização).
+   <img src="BrowserEngine.png" alt="componentes de um navegador">
     
 #### engine: motor; mecanismo; peça
 
