@@ -123,6 +123,7 @@ O termo 'endereço web' refere se à URL usando o protocolo HTTP ou HTTPS.
 As seguintes linguagens são linguagens de script: PHP, Ruby, Python e JavaScript.
 
 Todas as linguagens de script são linguagens de programação, mas nem todas as linguagens de programação são linguagens de script. Em notação de conjuntos:
+
 <img src="conjunto_linguagem.png" alt="conjunto linguagem">
         
 Há dois tipos de linguagens de script: lado servidor (server side) e lado cliente (client side). A única diferença siguinificativa entre as duas é que a primeira requer um servidor para o seu processamento.
