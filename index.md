@@ -128,9 +128,9 @@ Todas as linguagens de script são linguagens de programação, mas nem todas as
         
 Há dois tipos de linguagens de script: lado servidor (server side) e lado cliente (client side). A única diferença siguinificativa entre as duas é que a primeira requer um servidor para o seu processamento.
 
-Linguagens script do lado servidor são executadas em um servidor web. Quando o cliente envia uma requisição (request), os servidor responde enviando conteúdo via HTTP. Em contraste, linguagens do lado cliente, no seu respectivo navegador.
+Linguagens script do lado servidor são executadas em um servidor web. Quando o cliente envia uma requisição (request), o servidor responde enviando conteúdo via HTTP. Em contraste, linguagens do lado cliente, no seu respectivo navegador.
 
 O benefício de scripts do lado cliente é que eles podem reduzir a demanda do servidor, permitindo que páginas web carreguem mais rápido. Qualquer que seja, um benefício siguinificativo dos scripts do lado do servidor é que eles não estão visíveis publicamente como estão os scripts do lado cliente.
 
-Quando tentar escolher por qual caminho seguir em um projeto, tenha em mente que scripts do lado cliente são mais focados em interface e funcionalidade. Opostamente, scripts do lado do servidor focam se mais em processamento rápido, acesso aos dados e resolução de erros.
+Quando tentar escolher por qual caminho seguir em um projeto, tenha em mente que scripts do lado cliente são mais focados em interface e funcionalidade. Opostamente, scripts do lado do servidor focam se mais em processamento rápido, acesso aos dados e resolução de erros (troubleshooting).
    
